@@ -120,4 +120,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ### Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/ARUNAGIRINATHAN_K)
+[GitHub Profile](https://github.com/ARUNAGIRINATHAN-K)
